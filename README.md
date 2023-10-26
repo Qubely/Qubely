@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=rounded&fontColor=auto&color=auto&height=200&section=header&text=Back-end%20Development%20&fontSize=60&desc=Welcome!&descAlignY=75) 
+![header](https://capsule-render.vercel.app/api?type=rounded&fontColor=auto&color=auto&height=180&section=header&text=Back-end%20Development%20&fontSize=60&desc=Welcome!&descAlignY=75) 
 
 
 ### `💙 Tech Stack 💙`
@@ -37,4 +37,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="25" />
 <br>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 </div>
